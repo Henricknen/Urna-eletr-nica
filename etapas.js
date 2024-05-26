@@ -4,19 +4,19 @@ let etapas = [
         numeros: 5,
         candidatos: [
             {
-                numero: 45156,
+                numero: '45156',
                 nome: 'Vue.js',
                 categoria: 'frontend',
-                foto:[
-                    {url:'vue.jpg', legenda:''}
+                fotos:[
+                    {url:'vue.jpg', legenda:'front'}
                 ]
             },
             {
-                numero: 54320,
+                numero: '54320',
                 nome: 'Node.js',
                 categoria: 'backend',
-                foto:[
-                    {url:'node.jpg', legenda:''}
+                fotos:[
+                    {url:'node.jpg', legenda:'back'}
                 ]
             },
         ]
@@ -26,19 +26,19 @@ let etapas = [
         numeros: 5,
         candidatos: [
             {
-                numero: 1,
+                numero: '15',
                 nome: 'JavaScript',
                 categoria: 'frontend',
-                foto:[
-                    {url:'js.jpg', legenda:''}
+                fotos:[
+                    {url:'js.jpg', legenda:'front'}
                 ]
             },
             {
-                numero: 2,
+                numero: '22',
                 nome: 'Python',
                 categoria: 'frontend',
-                foto:[
-                    {url:'python.jpg', legenda:''}
+                fotos:[
+                    {url:'python.jpg', legenda:'back'}
                 ]
             },
         ]
