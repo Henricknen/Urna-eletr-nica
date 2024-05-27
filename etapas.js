@@ -23,7 +23,7 @@ let etapas = [
     },
     {
         titulo: 'LINGUAGEM DE PROGRAMAÇÃO',
-        numeros: 5,
+        numeros: 2,
         candidatos: [
             {
                 numero: '15',
